@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5225383434B9CEF7FC4EC818960E703A9B274941",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "30CA9FD46F2EF356356CD5C360B43966783EB58A" : 9223372036854775807,
+    "5225383434B9CEF7FC4EC818960E703A9B274941" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1BE56BCF-AFBA-4FB5-9E0D-16E2FCB7C92F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "30CA9FD46F2EF356356CD5C360B43966783EB58A" : "..",
+    "5225383434B9CEF7FC4EC818960E703A9B274941" : "iOrder\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iOrder",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iOrder.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/toryznoco\/iOrder.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "30CA9FD46F2EF356356CD5C360B43966783EB58A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/faith939339094\/iOrder.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5225383434B9CEF7FC4EC818960E703A9B274941"
+    }
+  ]
+}
